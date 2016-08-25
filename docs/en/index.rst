@@ -35,6 +35,7 @@ The main documentation for this application is organized into a couple sections:
    user/errors_during_fetching
    user/annotations
    user/download_articles
+   user/share
    user/filters
    user/tags
    user/android
